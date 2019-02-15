@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#242425</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="pinkcolor">#43a047</color>
+    <color name="pinkcolorless">#83d186</color>
+    <color name="boxcolorlightgreen">#95c897</color>
+    <color name="transparent">#00000000</color>
+    <color name="whitecolor">#ffffff</color>
+    <color name="yellowhighlight">#f2d888</color>
+    <color name="toastcolor">#0e0e0e</color>
+</resources>
